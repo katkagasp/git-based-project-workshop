@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "asset_type": "connection",
+    "name": "Db2onCloud",
+    "origin_country": "us",
+    "rov": {
+      "mode": 0
+    },
+    "resource_key": "0000:0000:0000:0000:0000:FFFF:3475:F9B2|30756|bludb",
+    "asset_category": "USER",
+    "created_at": "2023-03-30T09:50:13Z",
+    "created": 1680169813422,
+    "asset_id": "connection.Db2onCloud",
+    "asset_attributes": [
+      "connection"
+    ]
+  },
+  "entity": {
+    "connection": {
+      "datasource_type": "506039fb-802f-4ef2-a2bf-c1682e9c8aa2",
+      "context": "source,target",
+      "properties": {},
+      "flags": [
+        "personal_credentials"
+      ],
+      "ref_catalog_id": "e78abc34-bffc-490a-819b-cd4eda4281ea",
+      "ref_asset_id": "95fc45b5-c1a7-48eb-aa34-d71c84bf9436"
+    }
+  },
+  "attachments": []
+}
